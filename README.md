@@ -1,2 +1,1 @@
-# imageDemosaicingIPYNB
-Computer Vision Assignment
+# Image Demosaicing IPYNB assignment
